@@ -9,7 +9,7 @@ I build practical software and digital solutions across:
 
 ## What I'm currently building
 
-[Your Job Search OS]
+Job Search OS
 
 ## Featured Projects
 
