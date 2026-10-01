@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Jessie Jackson 👋
 
-<!--
-**JCode-7/JCode-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BSc Information Technology graduate based in Nairobi, Kenya.
 
-Here are some ideas to get you started:
+I build practical software and digital solutions across:
+- Full-stack web development
+- IT systems and technical support
+- AI/data-driven applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm currently building
+
+[Your Job Search OS]
+
+## Featured Projects
+
+SellTrack
+Faith-Link
+Email Tagging System
+Job Search OS
+
+## Technical Focus
+
+Frontend
+Backend
+Databases
+AI/API integration
+DevOps
+
+## Experience
+
+Jesymax Security Services
+NSSF Kenya
+
+## Certifications
+
+IBM Artificial Intelligence
+Micro1 Software Developer
+
+## Connect
+
+Portfolio
+LinkedIn
+Email
